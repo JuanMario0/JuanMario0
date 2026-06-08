@@ -46,7 +46,7 @@ Soy un desarrollador y científico de datos radicado en Coyoacán, CDMX. Me apas
 
 * 📧 **Email:** moreno.jm730@gmail.com
 * 📞 **Teléfono:** 5538630111
-* 💼 **LinkedIn:** [Tu Enlace de LinkedIn Aquí]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/juan-moreno-508606221/
 * 🎓 **Formación:** Ciencia de datos para negocios - Universidad Rosario Castellanos
 
 > *"Resolviendo problemas complejos y optimizando el mundo, una línea de código y un modelo a la vez."* 💻✨
