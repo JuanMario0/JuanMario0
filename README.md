@@ -1,12 +1,12 @@
-# ¡Hola! Soy Juan Mario Moreno 👋🚀
+# ¡Hola! Soy Juan Mario Moreno 
 
 ### Data Scientist & Backend Developer | Transformando datos complejos en soluciones ágiles
 
-Soy un desarrollador y científico de datos radicado en Coyoacán, CDMX. Me apasiona el Machine Learning, el procesamiento de lenguaje natural (NLP) y la arquitectura backend. Me especializo en construir APIs eficientes con FastAPI y Django, automatizar procesos y hacer que las bases de datos operen a su máxima capacidad. Mi enfoque principal es reducir los tiempos de entrega y procesamiento, logrando optimizaciones de hasta un 30%. ⚡📊
+Soy un desarrollador y científico de datos radicado en Coyoacán, CDMX. Me apasiona el Machine Learning, el procesamiento de lenguaje natural (NLP) y la arquitectura backend. Me especializo en construir APIs eficientes con FastAPI y Django, automatizar procesos y hacer que las bases de datos operen a su máxima capacidad. Mi enfoque principal es reducir los tiempos de entrega y procesamiento, logrando optimizaciones de hasta un 30%. ⚡
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 * 🔭 **Actualmente trabajando en:** Análisis profundos de datos de salud pública (como evaluaciones de riesgo de diabetes con datos de ENSANUT) y desplegando modelos predictivos desde su limpieza hasta producción.
 * 🛠️ **Mi enfoque:** Desarrollo de backend robusto y manipulación de datos a gran escala, complementado con desarrollo frontend ágil utilizando Next.js estructurado con JavaScript puro para mayor velocidad de iteración. 
